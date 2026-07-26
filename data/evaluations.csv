@@ -1,1 +1,1 @@
-
+evaluation_id,response_id,hallucination_present,failure_type,severity,confidence,explanation,corrected_answer,evaluator
